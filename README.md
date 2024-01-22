@@ -1,7 +1,7 @@
 # Thyroid-Detection
 THYROID CANCER DETECTION
 USING DEEP LEARNING TECHNIQUES
-**************************************************************************************************************************************************8
+**************************************************************************************************************************************************
 ABSTRACT
                                      
 Thyroid cancer, impacting the thyroid gland in the neck, demands precise diagnosis andit is a 
